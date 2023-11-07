@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD4FB7kR8g1xLgi9rKjadIqD8LZLP8KeVE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>916869484006</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.crudDemo.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-crud-demo-e6ac4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-crud-demo-e6ac4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:916869484006:ios:46f8e260c382507537da27</string>
+</dict>
+</plist>
